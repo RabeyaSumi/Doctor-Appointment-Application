@@ -1,12 +1,10 @@
-# Doctors Appointment App — Frontend (React + Vite)
+### Fixing Vite Permission Error
 
-This is the frontend of the Doctors Appointment System built using **React + Vite**.
+| OS | Command |
+|----|---------|
+| macOS / Linux | `chmod +x node_modules/.bin/vite` then `npm start` |
+| Windows | No chmod needed → try `npx vite` or run terminal as Administrator |
 
----
 
-## 📥 After Downloading / Cloning the Project
 
-```bash
-git clone <repository-link>
-cd doctors-appointment-app-main
 
